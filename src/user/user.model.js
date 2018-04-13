@@ -1,0 +1,6 @@
+export class UserModel {
+    constructor(name="", email="") {
+        this.Name =  name;
+        this.Email = email;
+    }
+}

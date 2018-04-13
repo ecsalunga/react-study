@@ -1,0 +1,12 @@
+.big {
+    font-size: 30px;
+    font-weight: bold;
+    color: teal;
+    cursor: pointer;
+}
+
+.child {
+    font-size: 30px;
+    font-weight: bold;
+    color: teal;
+}
